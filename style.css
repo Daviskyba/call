@@ -1,0 +1,14 @@
+body { 	font-family:Arial, Helvetica, sans-serif; }
+ label { width: 200px; float: left;    }
+.text { clear: both; margin: 10px 0; }
+.submit { clear: both;   margin: 10px 0px 10px 200px; }
+button {   border: none;    cursor: pointer; }
+.submit button {
+    background: #C964FF;
+    border-radius: 5px;
+    color: #FBFF05;
+    font-size: 16px;
+    padding: 10px 20px ;
+    text-decoration: none;
+    outline: none;
+}
